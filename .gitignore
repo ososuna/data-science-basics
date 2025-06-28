@@ -1,0 +1,71 @@
+# Conda environment files
+/env/
+/.env
+*.env
+
+# Environments
+.conda
+*.conda
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# PyInstaller
+# Usually these are written by a python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+debug.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear locally that you do not want to check in.
+.idea
+*.sublime-workspace
+*.sublime-project
+*.vscode
+
+# Environments
+venv/
+
+# PyEnv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.pyre/
